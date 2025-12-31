@@ -1,6 +1,6 @@
 # neue-be
 
-A free poster design tool that enforces Swiss design principles.
+A free poster design tool that encourages Swiss design principles.
 
 **[Use it now at neue-be.com](https://neue-be.com)**
 
