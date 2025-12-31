@@ -91,7 +91,7 @@ Just go to **[neue-be.com](https://neue-be.com)**. No installation required.
 ## Roadmap
 
 ### In Progress
-- [ ] Guides and rulers
+- [ ] Gradients - linear, radial, angular
 - [ ] Expanded canvas size presets
 - [ ] More Swiss color palettes
 
