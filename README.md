@@ -82,9 +82,11 @@ Just go to **[neue-be.com](https://neue-be.com)**. No installation required.
 | Text | T |
 | Delete selected | Delete / Backspace |
 | Deselect | Escape |
-| Constrain proportions | Hold Shift |
-| Resize from center | Hold Alt |
-| Snap rotation to 15° | Hold Shift |
+| Free move (no snap) | Hold Alt while dragging |
+| Constrain to axis | Hold Shift while dragging |
+| Constrain proportions | Hold Shift while resizing |
+| Resize from center | Hold Alt while resizing |
+| Snap rotation to 15° | Hold Shift while rotating |
 
 ---
 
